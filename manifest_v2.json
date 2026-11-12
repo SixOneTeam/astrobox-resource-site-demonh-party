@@ -1,0 +1,119 @@
+{
+  "item": {
+    "id": "site.demonh.party",
+    "restype": "quick_app",
+    "name": "派对游戏",
+    "description": "派对游戏合集· 2.0 全新升级\n一款集合 9 种玩法与功能的聚会助手：\n① 谁是卧底　② 海龟汤　③ 真心话大冒险\n④ 你会按下按钮吗　⑤ 狼人杀　⑥ 辅助功能\n⑦ 脑筋急转弯　⑧ 你宁愿　⑨ 代价交易\n2.0 更新亮点\n- 支持手环与手机通信互联。\n- 谁是卧底、真心话大冒险、海龟汤支持自行添加题库。",
+    "preview": [
+      "media/home-activated.png",
+      "media/home-more.png",
+      "media/home-bottom.png",
+      "media/assistant.png",
+      "media/button.png",
+      "media/button-result.png",
+      "media/connect.png",
+      "media/dice.png",
+      "media/dice-result.png",
+      "media/randompick.png",
+      "media/randompick-result.png",
+      "media/rather.png",
+      "media/riddles.png",
+      "media/riddles-question.png",
+      "media/soup.png",
+      "media/soup-controls.png",
+      "media/soup-menu.png",
+      "media/soup-story.png",
+      "media/spy-config.png",
+      "media/spy-controls.png",
+      "media/spy-deal.png",
+      "media/spy-identity.png",
+      "media/spy-results.png",
+      "media/spy-vote.png",
+      "media/trade.png",
+      "media/truth.png",
+      "media/truth-game.png",
+      "media/wolf.png",
+      "media/wolf-game.png",
+      "media/wolf-identity.png",
+      "media/wolf-roles.png"
+    ],
+    "icon": "media/派对游戏-icon.png",
+    "cover": "media/派对游戏宣传图@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "派对游戏密钥购买链接",
+      "url": "https://afdian.com/item/4deb9caadb9211f194b252540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    },
+    {
+      "title": "派对游戏QQ交流群",
+      "url": "https://qm.qq.com/q/EUZFq30s9O",
+      "icon": "wechat-logo"
+    },
+    {
+      "title": "SixOne抖音账号",
+      "url": "https://v.douyin.com/qUGxv_ePctc/ 5@7.com",
+      "icon": "instagram-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-RW5.rpk",
+      "versionCode": 20111
+    },
+    "xmrw5xring": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-RW5.rpk",
+      "versionCode": 20111
+    },
+    "xmrw6": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-RW6.rpk",
+      "versionCode": 20111
+    },
+    "xmb10": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-Band10.rpk",
+      "versionCode": 20111
+    },
+    "xmb10nfc": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-Band10.rpk",
+      "versionCode": 20111
+    },
+    "xmb10p": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-Band10Pro.rpk",
+      "versionCode": 20111
+    },
+    "xmb11": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-Band11.rpk",
+      "versionCode": 20111
+    },
+    "xmb11nfc": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-Band11.rpk",
+      "versionCode": 20111
+    },
+    "xmb9": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-Band9.rpk",
+      "versionCode": 20111
+    },
+    "xmb9p": {
+      "version": "2.0.0",
+      "file_name": "downloads/PartyGames-Sixone-2.0.0-Band9Pro.rpk",
+      "versionCode": 20111
+    }
+  },
+  "ext": {}
+}
